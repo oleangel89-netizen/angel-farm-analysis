@@ -13,7 +13,6 @@ Data Scientist — one project at a time.
 
 **Tools:** R | Posit Cloud | Google Colab
 **Niche:** Agricultural Data Science
-**Platform:** TikTok + Instagram (@your_handle)
 
 ---
 
