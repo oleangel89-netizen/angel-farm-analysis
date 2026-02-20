@@ -1,52 +1,42 @@
-# 🌾 Angel Farm Agricultural Analysis
-
-> **Project 1 of 30 Days to Data Scientist**
-> *Broke agriculture student defying the odds*
+# 🌾 30 Days to Data Scientist
+### by Angel V. Ole | Agriculture Student | CSU-Piat
 
 ---
 
-## 👩‍🌾 About This Project
+## About This Repository
 
-I'm Angel, a 2nd year Agriculture student from the Philippines
-with zero coding experience — until February 16, 2026.
+I am a second year agriculture student from Cagayan Valley 
+with zero programming experience before February 16, 2026.
 
-This is my first R project. I built a dataset from scratch
-using real Philippine provinces and analyzed animal population
-across Cagayan, Isabela, and Kalinga.
+This repository documents my 30-day journey to become a 
+Data Scientist — one project at a time.
 
----
-
-## 📊 What I Did
-
-- ✅ Created a custom agricultural dataset (angel_farm)
-- ✅ Explored data structure and summary statistics
-- ✅ Filtered by animal type (Chicken, Pig, Cow)
-- ✅ Grouped and summarized by province
-- ✅ Visualized results using ggplot2
+**Tools:** R | Posit Cloud | Google Colab
+**Niche:** Agricultural Data Science
+**Platform:** TikTok + Instagram (@your_handle)
 
 ---
 
-## 🔍 Key Findings
+## Projects
 
-- Kalinga has the highest chicken population at 20,000
-- Chicken is the most dominant animal across all 3 provinces
-- Total chicken population (39,000) exceeds cows and pigs combined
+### ✅ Project 1 — Angel Farm Analysis
+Agricultural animal population analysis across Cagayan Valley provinces.
+- Data exploration, filtering, sorting
+- Summary statistics by animal type
+- Grouped bar chart visualization
+
+### ✅ Project 2 — Cagayan Valley Weather Analysis 2025
+Real 2025 weather data analysis for IGP crop calendar planning.
+- Temperature & humidity from metar-taf.com
+- Monthly aggregation and planting condition tagging
+- Crop recommendations per IGP project
+- Full dashboard: Plant Grow Repeat | Halayaman | Kabutihan
 
 ---
 
-## 🛠️ Tools Used
-
-- R 4.5.2
-- tidyverse
-- ggplot2
-- Posit Cloud
+## Goal
+Land a career as an Agricultural Data Scientist 
+by combining my agriculture background with data science skills.
 
 ---
-
-## 👤 Author
-
-**Angel Ole**
-Agriculture Student → Aspiring Data Scientist
-📅 Started R: February 16, 2026
-🎯 Goal: Data Scientist in 30 Days
-📱 Follow my journey: TikTok | Instagram — *30 Days to Data Scientist*
+*Agriculture student. Defying the odds. One project at a time.*
